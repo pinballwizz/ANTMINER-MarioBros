@@ -1,0 +1,24 @@
+cpu
+7f = 0-1fff
+7e = 2000-3fff
+7d = 4000-5fff
+7c = f000-ffff
+
+snd cpu
+6k = 1000-17ff
+
+gfx1
+3f = 0-fff
+3j = 1000-1fff
+
+gfx2
+7m = 0-fff
+7n = 1000-1fff
+7p = 2000-2fff
+7s = 3000-3fff
+7t = 4000-4fff
+7u = 5000-5fff
+
+proms
+5p = 0-1f
+4p = 0-1ff
